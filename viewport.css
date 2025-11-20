@@ -1,0 +1,16 @@
+.pixel {
+  background-color: darksalmon;
+  width: 200px;
+  height: 200px;
+}
+.viewportWidth {
+  background-color: aquamarine;
+  width: 20vw;
+  height: 20vw;
+}
+
+.viewportHeight {
+  background-color: brown;
+  width: 20vh;
+  height: 20vh;
+}
